@@ -1,1 +1,5 @@
-Test Test Test
+Current plan for the song:
+
+Simple drum beat (~120 BPM)
+Add a simple bass progression over it
+Finish with some sort of electronic synth over it
